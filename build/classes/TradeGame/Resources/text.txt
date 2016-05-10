@@ -1,0 +1,43 @@
+Go                         659 - 748     643 - 732
+Slovenia                   601 - 658     643 - 732
+Community Chest            544 - 600     643 - 732
+Switzerland                486 - 544     644 - 732
+Income Tax                 428 - 485     643 - 732
+Reading RailRoad           371 - 428     643 - 732
+Croatia                    313 - 371     643 - 732
+Chance                     257 - 312     643 - 732
+Hungary                    198 - 255     643 - 732
+Poland                     140 - 198     643 - 732
+Jail                        51 - 139     643 - 732
+
+Serbia                      51 - 139     585 - 641
+Electric                    51 - 139     529 - 583
+Albania                     51 - 139     472 - 529
+Macedonia                   51 - 139     414 - 470
+Pennsylvannia               51 - 139     356 - 413
+Turkey                      51 - 139     299 - 356
+Community Chest             51 - 139     242 - 298
+Romania	                    51 - 139     183 - 141
+Moldova                     51 - 139     126 - 184
+Free Parking                51 - 139      37 - 125
+
+Estonia		           140 - 198      38 - 126
+Change                     198 - 256      38 - 126
+Italy                      256 - 313      38 - 126
+Portugal                   313 - 370 	  38 - 126
+Rainroad                   371 - 428      38 - 126
+Finland                    428 - 486      38 - 126
+Sweden                     487 - 544      38 - 126
+Waterworks                 545 - 601      38 - 126
+Norway                     601 - 659      38 - 126
+Go To Jail                 659 - 749      38 - 126
+
+Ireland                    659 - 749     126 - 185
+Spain 	          	   659 - 749     186 - 242
+Community Chest   	   659 - 749     243 - 299
+United Kingdom    	   659 - 749     299 - 357
+Short Line        	   659 - 749     357 - 412
+Chance            	   659 - 749     413 - 472
+France            	   659 - 749     473 - 529
+Luxury Tax        	   659 - 749     531 - 587
+Luxembourg        	   659 - 749     588 - 644

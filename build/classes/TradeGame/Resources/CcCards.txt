@@ -1,0 +1,18 @@
+200/Advance to Go (Collect $200)
+75/Currency exchange error in your favor – collect $75
+-50/Buy a souvenir – Pay $50
+0/Get out of jail free – this card may be kept until needed, or sold
+0/Go to jail – go directly to jail – Do not pass Go, do not collect $200/0
+10/It is your birthday Collect $10 from each player/40
+50/Grand Opera Night – collect $50 from every player for opening night seats
+20/Income Tax refund – collect $20
+100/Travel Insurance Matures – collect $100 
+-100/Pay Hotel Room Service Fees of $100 
+-50/Drink some expensive coffee - pay $50 
+50/You refund your plane ticket - collect $50
+-40/Your luggage exceeds the weight limit – pay $40
+-100/You lost your passport! - pay $100
+10/Discount on gelato – collect $10 
+100/You inherit $100 
+25/Help other tourists take pictures - collect $25
+100/Holiday Fund matures - Receive $100
